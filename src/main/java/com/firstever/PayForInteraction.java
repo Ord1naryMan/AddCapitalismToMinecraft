@@ -60,10 +60,4 @@ public class PayForInteraction implements UseBlockCallback {
 
         return ActionResult.PASS;
     }
-
-
-    //crafting of any item = 5d
-    //any diamond related item = using stacks of diamond blocks
-
-
 }
